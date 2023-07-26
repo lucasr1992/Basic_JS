@@ -1,0 +1,5 @@
+console.log('typeof num: ', typeof num)
+console.log('typeof string: ', typeof 'Lucas')
+console.log('typeof boolean: ', typeof true)
+console.log('typeof array [1, 2, 3]: ', typeof [1, 2, 3])
+console.log('typeof {name:John}: ', typeof {name:'John'})
